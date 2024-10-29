@@ -1,0 +1,9 @@
+.Container-Loading-Data{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Container-Loading-Data .ant-spin-dot-item{
+    background-color: #6449B7;
+}

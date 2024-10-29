@@ -1,0 +1,36 @@
+.container-card-media{
+    width: 100%;
+    break-inside: avoid;
+    /* margin-bottom: 20px !important; */
+}
+
+.container-card-media img{
+    max-width: 100%;
+
+}
+
+.container-metrics-image{
+    display: flex;
+    justify-content: end;
+    color: #FFFFFF;
+    gap: 3px;
+    margin-bottom: 2px;
+}
+
+.container-metrics-image div{
+    background-color: #B26AE6;
+    border-radius: 5px;
+    padding: 0 10px;
+    display: flex;
+    gap: 3px;
+    user-select: none;
+}
+
+.container-url-image{
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+.container-metrics-image .anticon{
+    margin-right: 0;
+}

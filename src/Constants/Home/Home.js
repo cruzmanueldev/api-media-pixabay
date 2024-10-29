@@ -1,0 +1,6 @@
+export const GET_DATA_MEDIA             = "GET_DATA_MEDIA"
+export const GET_TYPE_MEDIA             = "GET_TYPE_MEDIA"
+export const GET_TEXT_RESULT            = "GET_TEXT_RESULT"
+export const GET_ID_MEDIA_SELECTED      = "GET_ID_MEDIA_SELECTED"
+export const GET_PAGE_MEDIA_SELECTED    = "GET_PAGE_MEDIA_SELECTED"
+export const GET_LOADING_DATA           = "GET_LOADING_DATA"
